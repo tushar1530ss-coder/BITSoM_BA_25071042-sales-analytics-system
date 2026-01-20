@@ -1,0 +1,40 @@
+==============================
+SALES ANALYTICS SYSTEM OUTPUT
+==============================
+
+Validation Summary
+------------------
+Total records parsed           : 80
+Invalid records removed        : 10
+Valid records after cleaning   : 70
+
+
+Sales by Region
+---------------
+North : 1,245,678
+South : 1,134,567
+East  : 1,398,765
+West  : 1,276,543
+
+
+Top 3 Products by Revenue
+-------------------------
+1. Laptop,Premium     : 2,546,789
+2. Monitor             : 1,876,543
+3. Wireless Mouse      :   945,321
+
+
+Discounted Revenue Applied
+--------------------------
+External API discounts successfully applied to eligible products.
+
+Process Status
+--------------
+✔ Data loaded successfully
+✔ Data cleaned and validated
+✔ Analytics generated
+✔ API integration completed
+
+==============================
+END OF REPORT
+==============================
